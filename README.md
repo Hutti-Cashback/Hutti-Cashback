@@ -29,7 +29,7 @@
   </ol>
 
   <h2>Get Started</h2>
-  <p>Start saving with Hutti today. <strong>No coupons. No points. Just real cashback.</strong></p>
+  <p>Start saving with Hutti today.</p>
 
 </body>
 </html>
